@@ -10,13 +10,15 @@ Priority: Medium
 
 Steps:
 
-  1. Login to SauceDemo
-  2. Add any product to cart
-  3. Proceed to Checkout
-  4. Enter "  " into First Name
-  5. Enter "  " into Last Name
-  6. Enter "  " into Postal Code
-  7. Complete checkout
+  1. Enter username: standard_user
+  2. Enter password: secret_sauce
+  3. Click Login
+  4. Add any product to cart
+  5. Proceed to Checkout
+  6. Enter "  " into First Name
+  7. Enter "  " into Last Name
+  8. Enter "  " into Postal Code
+  9. Complete checkout
 
 
 Actual Result: Order is successfully processed.
