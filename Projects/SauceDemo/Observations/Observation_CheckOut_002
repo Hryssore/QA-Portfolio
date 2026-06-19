@@ -1,0 +1,18 @@
+Observation-002
+
+Description: Checkout form accepts more than 100 values in First Name, Last Name and Zip/Postal code fields.
+
+Input: First Name: 
+
+  1. more than 100 symbols "a"
+  2. Last Name: more than 100 symbols "b" 
+  3. Zip/Postal code: more than 100 symbols "c"
+
+
+Where: at the point of order for the purchase of the product
+
+Observed Result: Checkout process completed successfully.
+
+Assessment: Potential validation issue. Requirements for name field validation are not specified, therefore the behavior cannot be confirmed as a defect.
+
+Status: Needs clarification.
