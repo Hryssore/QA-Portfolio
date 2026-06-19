@@ -4,9 +4,11 @@ Description:
 Checkout form accepts numeric values in First Name and Last Name fields.
 
 Input:
-First Name: 12345
-Last Name: 67890
-Zip/Postal code: name
+
+  1. First Name: 12345
+  2. Last Name: 67890
+  3. Zip/Postal code: name
+
 
 Where:
 at the point of order for the purchase of the product
