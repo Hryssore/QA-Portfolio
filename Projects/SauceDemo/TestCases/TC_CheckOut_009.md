@@ -2,7 +2,7 @@ TC-009
 
 Title: Incorrect First Name, Second Name, Zip/Postal Code, instead of string and numbers put more than 100 "a"
 
-Preconditions: User is on Products page
+Preconditions: User is on login page
 
 Test Steps:
 
