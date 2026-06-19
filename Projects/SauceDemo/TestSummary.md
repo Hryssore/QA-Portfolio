@@ -29,7 +29,7 @@ The following application modules were covered during testing:
 | Test Cases | 12 |
 | Bug Reports | 5 |
 | Observations | 2 |
-| Supporting Screenshots | 12 |
+| Supporting Screenshots | 38 |
 
 ---
 
