@@ -1,2 +1,10 @@
-# QA-Portfolio
-Manual QA portfolio containing test cases, bug reports, SQL practice and testing documentation created during QA training.
+# QA Portfolio
+
+This repository contains my practical work in software testing.
+
+Contents:
+- Test Cases
+- Bug Reports
+- SQL Practice
+
+Prepared as part of my training for Junior QA Internship positions.
