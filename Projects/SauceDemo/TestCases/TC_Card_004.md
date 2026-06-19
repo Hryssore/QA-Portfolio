@@ -3,8 +3,7 @@ TC-004
 Title:
 Successful buy object
 
-Preconditions:
-User is on Products page
+Preconditions: User is on login page
 
 Test Steps:
 
