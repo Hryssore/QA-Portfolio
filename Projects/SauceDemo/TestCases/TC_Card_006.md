@@ -6,15 +6,14 @@ Preconditions: User is on Products page
 
 Test Steps:
 
-Click product: Sauce Labs Bike Light
-
-  1. Click Add to cart
-  2. Click icon: Cart
-  3. Click Checkout
-  4. Enter First Name: .
-  5. Enter Second Name: .
-  6. Enter Zip/Postal Code: .
-  7. Click Continue
+  1. Click product: Sauce Labs Bike Light
+  2. Click Add to cart
+  3. Click icon: Cart
+  4. Click Checkout
+  5. Enter First Name: .
+  6. Enter Second Name: .
+  7. Enter Zip/Postal Code: .
+  8. Click Continue
 
 
 Expected Result: Error message is displayed.
