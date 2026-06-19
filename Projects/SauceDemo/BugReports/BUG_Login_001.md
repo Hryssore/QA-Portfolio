@@ -17,10 +17,10 @@ User is on the login page.
 
 Steps to Reproduce:
 
-  1. Open https://www.saucedemo.com. 
-  2. Enter valid username standard_user. 
-  3. Enter invalid password. 
-  4. Click Login. 
+  1. Open: https://www.saucedemo.com. 
+  2. Enter valid username: standard_user. 
+  3. Enter invalid password: 6767. 
+  4. Click: Login. 
 
 Actual Result:
 The error message extends beyond its container and overlaps the Login button, reducing readability and negatively affecting the user interface.
