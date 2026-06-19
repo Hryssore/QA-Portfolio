@@ -2,7 +2,7 @@ TC-006
 
 Title: Incorrect First Name, Second Name, Zip/Postal Code, instead of string and numbers put "."
 
-Preconditions: User is on Products page
+Preconditions: User is on login page
 
 Test Steps:
 
