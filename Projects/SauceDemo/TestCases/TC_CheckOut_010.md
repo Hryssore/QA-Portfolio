@@ -6,10 +6,13 @@ Preconditions: User is on login page
 
 Test Steps:
 
-  1. Click product: Sauce Labs Bike Light
-  2. Click Add to cart
-  3. Click icon: Cart
-  4. Click Checkout
-  5. Click Cancel
+  1. Enter username: standard_user
+  2. Enter password: secret_sauce
+  3. Click Login
+  4. Click product: Sauce Labs Bike Light
+  5. Click Add to cart
+  6. Click icon: Cart
+  7. Click Checkout
+  8. Click Cancel
 
 Expected Result: User is redirected to Cart page.
